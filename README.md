@@ -1,6 +1,6 @@
 # Test Spring jinQ
 
-### Create PostGreSQL Table
+### Create PostgreSQL Table
 
 ```
 CREATE TABLE customer(
